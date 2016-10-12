@@ -1,0 +1,46 @@
+h1 {
+	text-align: center;
+	font-family: System;
+	color:	white;
+	background-color: black;
+
+}
+h2{
+	font-size: 20px;
+	font-family: Century;
+	color: #00AF33;
+
+}
+h3{
+	font-size: 20px;
+	font-family: Century;
+	color: #00AF33;
+}
+h4{
+	font-size: 20px;
+	font-family: Century;
+	color: #00AF33;
+}
+h5{
+	font-size: 20px;
+	font-family: Century;
+	color: #00AF33
+}
+h6{
+	font-size: 20px;
+	font-family: Century;
+	color: #00AF33;	
+}
+h7{
+	font-size: 20px;
+	font-family: Century;
+	font: bold;
+	color: #00AF33;
+}
+p {
+	text-align: center;
+	color: #00FF33;
+}
+li {
+	font-family: cursive;
+}
